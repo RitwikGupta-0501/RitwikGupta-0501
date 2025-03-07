@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and conti
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/ritwikgupta0501/)
-- [Twitter](https://twitter.com/ritwikgupta0501)
+- [Instagram](https://www.instagram.com/gupta._.ritwik/)
 
 
 Thank you for visiting my profile! Feel free to check out my repositories and get in touch if you want to collaborate or just chat about tech.
