@@ -22,6 +22,7 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and conti
 - 📚 Reading
 - 🎮 Gaming
 - 🏃 Running
+- 🎧 Listening to Music
 
 ## GitHub Stats
 
