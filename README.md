@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and conti
 - 🌱 I’m continuously learning and improving my skills in programming and software engineering.
 - 👯 I’m looking to collaborate on open-source projects and innovative ideas.
 - 💬 Ask me about anything related to technology, programming, or any cool ideas you have.
-- 📫 How to reach me: [Email](mailto:ritwikgupta0501@example.com)
+- 📫 How to reach me: [Email](mailto:ritwikg.0501@gmail.com)
 - ⚡ Fun fact: I love exploring new technologies and applying them to solve real-world problems.
 
 ## Skills
