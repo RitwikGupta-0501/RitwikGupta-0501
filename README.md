@@ -8,9 +8,9 @@
 
 <div align="center">
 
-[![Available for Freelance](https://img.shields.io/badge/Available_for-Freelance_Projects-2ea44f?style=for-the-badge&logo=freelancer&logoColor=white)](mailto:YOUR_EMAIL_HERE)
+[![Available for Freelance](https://img.shields.io/badge/Available_for-Freelance_Projects-2ea44f?style=for-the-badge&logo=freelancer&logoColor=white)](mailto:ritwikg.0501@gmail.com)
 
-> *A Systems Architect navigating the Grand Line of distributed computing and backend engineering.*
+> *Breaking systems, building backends, and writing software somewhere in between.*
 
 </div>
 
@@ -21,9 +21,6 @@ I'm a developer who loves figuring out how systems work under the hood. My inter
 ### 🛠️ Currently Engineering
 
 * **WarpKV:** Architecting a GPU-accelerated Key-Value store utilizing C++ and CUDA for extreme throughput.
-* **Quiver:** Developing a lightweight CLI tool to streamline the management of rootless Docker containers.
-* **Digital Commerce:** Engineering a full-stack e-commerce marketplace for software and dashcams.
-* **Hardware & IoT:** Designing an automated solar panel cleaning machine and maintaining a local network-wide Pi-hole sinkhole.
 
 ---
 
@@ -51,28 +48,27 @@ I'm a developer who loves figuring out how systems work under the hood. My inter
 
 When I'm not running local models through Ollama or debugging distributed systems on my MX130, you can find me:
 
-* Gaming and catching up on the latest episodes of *One Piece* or *Pokémon*.
-* Curating Spotify playlists spanning from heavy electronic mixes to morning Hindi tracks.
-* Practicing Surya Bhedana and Ujjayi breathing techniques to maintain focus and internal heat during deep-work sessions.
+* Unwinding with some gaming or catching up on a good movie or tv series.
+* Picking one perfect track and letting autoplay do the rest.
+* Getting a good run in or diving into a solid book.
 
 ---
 
 <div align="center">
   <h3>📊 GitHub Analytics</h3>
-  <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-    </a>
-  </p>
+
+  [![Ritwik's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=RitwikGupta-0501&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/RitwikGupta-0501)
+  
+  [![Ritwik's Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RitwikGupta-0501&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/RitwikGupta-0501)
+  
+  [![Ritwik's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RitwikGupta-0501&theme=tokyonight&hide_border=true&background=0d1117)](https://github.com/RitwikGupta-0501)
+
 </div>
 
 <div align="center">
 
 ### 📬 Connect with Me
 
-[LinkedIn](YOUR_LINKEDIN_URL) • [Instagram](YOUR_INSTAGRAM_URL) • [Email](mailto:YOUR_EMAIL_HERE)
+[LinkedIn](YOUR_LINKEDIN_URL) • [Instagram](YOUR_INSTAGRAM_URL) • [Email](mailto:ritwikg.0501@gmail.com)
 
 </div>
