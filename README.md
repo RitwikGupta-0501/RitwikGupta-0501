@@ -14,7 +14,7 @@
 
 </div>
 
-I sit at the intersection of maximalist design and minimalist engineering. Whether I'm fine-tuning a custom Arch Linux and Hyprland setup, diving into CUDA and parallel computing, or architecting scalable cloud infrastructure, I believe in building software that is highly performant and precision-engineered. 
+I'm a developer who loves figuring out how systems work under the hood. My interests span from tweaking my Arch Linux workspace to exploring the mechanics of backend architecture and parallel computing. I'm constantly learning, experimenting with new tools, and aiming to build software that is efficient, reliable, and thoughtfully designed.
 
 ---
 
